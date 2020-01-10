@@ -1,0 +1,22 @@
+{
+   "name": "learning-folder",
+   "version": "1.0.0",
+   "description": "",
+   "main": "Medium.js",
+   "scripts": {
+      "start": "nodemon Medium.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/afhoyos/Learning-Js.git"
+   },
+   "author": "Andres Felipe Hoyos A.",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/afhoyos/Learning-Js/issues"
+   },
+   "homepage": "https://github.com/afhoyos/Learning-Js#readme",
+   "devDependencies": {
+      "nodemon": "^2.0.2"
+   }
+}
